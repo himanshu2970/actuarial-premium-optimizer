@@ -55,19 +55,17 @@ Websites which can be used for Data Gathering:
 1. Select multiple models and train with your dataset  
 2. Improve accuracy using:
    - Bagging  
-   - Boosting  
-
----
-
-### 6. Outsourced Data
+   - Boosting
+     
+fine tune existing model
 - Fine-tune external datasets (from GitHub or other sources) before training  
 
-### 7. Own Model
+Own Model
 - Select all required libraries and components  
-- Ensure accuracy through experimentation and evaluation  
-
+- Ensure accuracy through experimentation and evaluation
+  
 ---
 
-### 8. Model Deployment
+### 6. Model Deployment
 - Deploy trained model into production environment  
 - Monitor and retrain as needed  
